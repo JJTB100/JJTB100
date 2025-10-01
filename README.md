@@ -25,7 +25,20 @@ I enjoy learning, experimenting and creating something new, focusing on clarity 
 
 ---
 ## Projects
-### [HydroHeat]([HydroHeat](https://github.com/JJTB100/HydroHeat))
+### [HydroHeat](https://github.com/JJTB100/HydroHeat)
+Taking heat from servers and using it to heat houses - our winning entry into the PA Consulting Raspberry Pi competition.
+
+Large data centres lose £1.5m of energy costs to wasted heat, our Team HydroHeat created a prototype device that takes server heat and stores it in a liquid. Recycling this energy allows the heating of buildings or swimming pools.
+
+(also see [RiverSafe](https://github.com/JJTB100/RiverSafe), my previous finalist entry)
+
+### [A-Level NEA](https://github.com/JJTB100/A-Level-NEA)
+An app that trains piano chords by listening to the user play.
+
+An Object-Oriented combination of FFT, Sound Processing and Music Theory.
+
+### [AdventOfCode](https://github.com/JJTB100/AdventOfCode)
+My Solutions to the Advent of Code Puzzles
 
 ---
 ## 📊 GitHub Stats
