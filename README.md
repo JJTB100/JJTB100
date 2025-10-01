@@ -11,6 +11,12 @@ I am a student who is particularly excited about innovating with new technology 
 
 I enjoy learning, experimenting and creating something new, focusing on clarity and communication in my collaborative work.
 
+Outside of academics, I do:
+- Technical Projects and Competitions (E.g. PA Raspberry Pi Competition, other personal projects).
+- Scouting, having achieved the Chief Scout’s Platinum Award, DofE Bronze, and other awards for leadership and volunteering.
+- AI Soc, D&D, Badminton.
+
+
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB" alt="Python"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-Green" alt="Java"/>
@@ -52,3 +58,4 @@ My Solutions to the Advent of Code Puzzles
 ![JJTB100's Stats](https://github-readme-stats.vercel.app/api?username=JJTB100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![JJTB100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJTB100&theme=vue-dark&hide_border=true)
+
