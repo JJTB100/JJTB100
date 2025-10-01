@@ -8,6 +8,7 @@
 ---
 ## About Me
 I am a student who is particularly excited about innovating with new technology - I love to explore how emerging technologies can be used to solve current problems.
+
 I enjoy learning, experimenting and creating something new, focusing on clarity and communication in my collaborative work.
 
 <div align="center">
@@ -24,7 +25,7 @@ I enjoy learning, experimenting and creating something new, focusing on clarity 
 
 ---
 ## Projects
-### Hydroheat
+### [https://github.com/JJTB100/HydroHeat](HydroHeat)
 
 ---
 ## 📊 GitHub Stats
