@@ -18,8 +18,6 @@ A second-year Computer Science student at the University of York.
 <img src="https://img.shields.io/badge/GitHub-181717" alt="GitHub">
 </div>
 📊 My GitHub Stats
-<div align="center">
   ![JJTB100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJTB100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![JJTB100's Stats](https://github-readme-stats.vercel.app/api?username=JJTB100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![JJTB100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJTB100&theme=vue-dark&hide_border=true)
-</div>
