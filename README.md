@@ -1,6 +1,5 @@
 # Hi there, I'm JJTB100
 A second-year Computer Science student at the University of York.
-</div>
 ---
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB" alt="Python">
