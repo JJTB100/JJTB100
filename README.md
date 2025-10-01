@@ -37,6 +37,11 @@ An app that trains piano chords by listening to the user play.
 
 An Object-Oriented combination of FFT, Sound Processing and Music Theory.
 
+### [Neural Network From Scratch](https://github.com/JJTB100/NeuralNetworkFromScratch)
+A python project with the goal of creating a neural network to recognise handwritten numbers - no Torch or similar.
+
+Uses the MNist dataset for training.
+
 ### [AdventOfCode](https://github.com/JJTB100/AdventOfCode)
 My Solutions to the Advent of Code Puzzles
 
