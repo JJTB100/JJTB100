@@ -6,6 +6,10 @@
 </p>
 
 ---
+## About Me
+I am a student who is particularly excited about innovating with new technology - I love to explore how emerging technologies can be used to solve current problems.
+I enjoy learning, experimenting and creating something new, focusing on clarity and communication in my collaborative work.
+
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB" alt="Python"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-Green" alt="Java"/>
@@ -20,6 +24,7 @@
 
 ---
 ## Projects
+### Hydroheat
 
 ---
 ## 📊 GitHub Stats
