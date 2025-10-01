@@ -13,7 +13,6 @@ I enjoy learning, experimenting and creating something new, focusing on clarity 
 
 Outside of academics, I do:
 - Technical Projects and Competitions (E.g. PA Raspberry Pi Competition, other personal projects).
-- Scouting, having achieved the Chief Scout’s Platinum Award, DofE Bronze, and other awards for leadership and volunteering.
 - AI Soc, D&D, Badminton.
 
 
