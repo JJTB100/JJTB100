@@ -58,3 +58,12 @@ My Solutions to the Advent of Code Puzzles
 
 ![JJTB100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJTB100&theme=vue-dark&hide_border=true)
 
+---
+## Contact Me
+Preferably by email - jonathan@brostr.co.uk
+
+Visit my [Personal Website - jonathan.broster.co.uk](jonathan.broster.co.uk)
+
+I'm also on [LinkedIn](https://www.linkedin.com/in/jonathanbroster/)
+
+
