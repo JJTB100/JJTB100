@@ -1,10 +1,5 @@
-<div id="header" align="center">
-<h1>
-Hi there, I'm JJTB100
-</h1>
-<p>
+# Hi there, I'm JJTB100
 A second-year Computer Science student at the University of York.
-</p>
 </div>
 ---
 <div align="center">
