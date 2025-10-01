@@ -25,7 +25,7 @@ I enjoy learning, experimenting and creating something new, focusing on clarity 
 
 ---
 ## Projects
-### [https://github.com/JJTB100/HydroHeat](HydroHeat)
+### [HydroHeat]([HydroHeat](https://github.com/JJTB100/HydroHeat))
 
 ---
 ## 📊 GitHub Stats
