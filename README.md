@@ -60,7 +60,7 @@ My Solutions to the Advent of Code Puzzles
 
 ---
 ## Contact Me
-Preferably by email - jonathan@brostr.co.uk
+Preferably by email - jonathan@broster.co.uk
 
 Visit my [Personal Website - jonathan.broster.co.uk](jonathan.broster.co.uk)
 
