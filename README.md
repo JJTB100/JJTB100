@@ -1,5 +1,13 @@
-## Hi there 👋
-
+<div id="header" align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Jx5/giphy.gif" width="100"/>
+<h1>
+Hi there, I'm JJTB100
+<img src="https://www.google.com/search?q=https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-waving.gif%3F1531849430" width="35"/>
+</h1>
+<p>
+A second-year Computer Science student at the University of York
+</p>
+</div>
 <!--
 **JJTB100/JJTB100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
