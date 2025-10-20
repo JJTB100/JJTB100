@@ -13,7 +13,7 @@ I enjoy learning, experimenting and creating something new, focusing on clarity 
 
 Outside of academics, I do:
 - Technical Projects and Competitions (E.g. PA Raspberry Pi Competition, other personal projects).
-- AI Soc, D&D, Badminton.
+- D&D, Badminton.
 
 
 <div align="center">
