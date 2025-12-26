@@ -37,19 +37,21 @@ Large data centres lose £1.5m of energy costs to wasted heat, our Team HydroHea
 
 (also see [RiverSafe](https://github.com/JJTB100/RiverSafe), my previous finalist entry)
 
-### [A-Level NEA](https://github.com/JJTB100/A-Level-NEA)
-An app that trains piano chords by listening to the user play.
-
-An Object-Oriented combination of FFT, Sound Processing and Music Theory.
-
 ### [Neural Network From Scratch](https://github.com/JJTB100/NeuralNetworkFromScratch)
 A python project with the goal of creating a neural network to recognise handwritten numbers - no Torch or similar.
 
 Uses the MNist dataset for training.
 
-### [AdventOfCode](https://github.com/JJTB100/AdventOfCode)
-My Solutions to the Advent of Code Puzzles
+### [Shell - C](https://github.com/JJTB100/shell-c)
+A lightweight, custom Unix shell written in C. Features a raw-mode REPL with tab autocompletion, I/O redirection (>, >>, 2>), quote handling, built-in commands, history (persistant) and pipelining.
 
+### [AdventOfCode](https://github.com/JJTB100/AdventOfCode)
+My Solutions to the Advent of Code Puzzles 2024, 2025
+
+### [A-Level NEA](https://github.com/JJTB100/A-Level-NEA)
+An app that trains piano chords by listening to the user play.
+
+An Object-Oriented combination of FFT, Sound Processing and Music Theory.
 ---
 ## 📊 GitHub Stats
 ![JJTB100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJTB100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
