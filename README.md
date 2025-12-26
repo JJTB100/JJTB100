@@ -19,7 +19,7 @@ Outside of academics, I do:
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB" alt="Python"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-Green" alt="Java"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/C-Blue" alt="C"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/C-5c6ac0" alt="C"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/Csharp-420039" alt="C#"/>
 <img src="https://img.shields.io/badge/AI-12355B" alt="AI"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E" alt="JavaScript"/>
