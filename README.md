@@ -50,15 +50,11 @@ My Solutions to the Advent of Code Puzzles 2024, 2025
 
 ### [A-Level NEA](https://github.com/JJTB100/A-Level-NEA)
 An app that trains piano chords by listening to the user play.
-
 An Object-Oriented combination of FFT, Sound Processing and Music Theory.
+
 ---
 ## 📊 GitHub Stats
-![JJTB100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJTB100&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-![JJTB100's Stats](https://github-readme-stats.vercel.app/api?username=JJTB100&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![JJTB100's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JJTB100&theme=vue-dark&hide_border=true)
+[![JJTB100's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJTB100)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Contact Me
