@@ -49,6 +49,9 @@ A lightweight, custom Unix shell written in C. Features a raw-mode REPL with tab
 ### [AdventOfCode](https://github.com/JJTB100/AdventOfCode)
 My Solutions to the Advent of Code Puzzles 2024, 2025
 
+### [Custom CNN - IMLO Cswk](https://github.com/JJTB100/IMLO)
+Deep learning coursework project. Cswk task to implement, optimize, and train a Convolutional Neural Network (CNN) to classify the Oxford-IIIT Pet Dataset, constrained to a maximum of 30 training epochs. Final accuracy: 78%
+
 ### [A-Level NEA](https://github.com/JJTB100/A-Level-NEA)
 An app that trains piano chords by listening to the user play.
 An Object-Oriented combination of FFT, Sound Processing and Music Theory.
